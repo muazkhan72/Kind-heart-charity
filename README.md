@@ -35,7 +35,7 @@ Kind-Heart-Charity/
 
 ## 📸 Screenshots
 
-![Kind Heart Charity Screenshot](./assets/images/screenshot.png)
+![Kind Heart Charity Screenshot](./assets/images/screencapture-kind-heart-charity-onrender-2026-01-12-19_37_09.png)
 
 ---
 
