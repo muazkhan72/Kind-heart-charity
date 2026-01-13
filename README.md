@@ -33,6 +33,12 @@ Kind-Heart-Charity/
 
 ---
 
+## 📸 Screenshots
+
+![Kind Heart Charity Screenshot](./assets/images/screenshot.png)
+
+---
+
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
