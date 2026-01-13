@@ -37,7 +37,7 @@ Kind-Heart-Charity/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/kind-heart-charity.git
+   git clone https://github.com/muazkhan72/Kind-heart-charity.git
 
 2. Open the project folder:
 cd kind-heart-charity
